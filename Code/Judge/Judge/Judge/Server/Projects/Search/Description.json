@@ -1,0 +1,8 @@
+{
+   "write" : ["search.py", "searchAgents.py"],
+   "read" : ["pacman.py", "game.py", "util.py"],
+   "ignore" : ["graphicsDisplay.py", "graphicsUtils.py", "textDisplay.py", 
+    "ghostAgents.py", "keyboardAgents.py", "layout.py", "autograder.py", 
+    "testParser.py", "testClasses.py", "test_cases/", "searchTestClasses.py"],
+    "problemNumRange" : 8
+}
